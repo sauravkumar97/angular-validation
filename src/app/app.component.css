@@ -1,0 +1,39 @@
+.row{
+    display: flex;
+    justify-content: center;
+    padding:50px;
+}
+.form-control{
+    height: 39px;
+    min-width:300px;
+    border-radius: 6px;
+    padding:0.5px;
+    border:2px solid blue;
+    
+}
+input.ng-invalid.ng-touched {
+    border: 2px solid red;
+  }
+  .form-group{
+  height:65px;
+  }
+  .btn{
+      /* background-color: darkblue; */
+      color:red;
+      height:40px;
+      min-width:300px;
+      border-radius: 9px;
+      margin-top:-100px;
+      border:3px solid blue;
+  }
+  .container1{
+  display: flex;
+  justify-content: center;
+  font-size: xx-large;
+  font-weight: 300;
+  line-height: initial;
+  height: 40px;
+  background-color: darkblue;
+  color:white;
+  }
+ 
